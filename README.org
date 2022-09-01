@@ -7,7 +7,7 @@
 * GitHub username: Halila2727
 
 * Notes:
-
+This is my first lab that I will be doing from the terminal
 
 
 * General instructions:
