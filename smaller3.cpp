@@ -1,10 +1,11 @@
 /*
-        Author: Halil Akca
-        Course: CSCI-135
-        Instructor: Mike Zamansky
-        Assignment: Lab 01, Task B
+	Author: Halil Akca
+	Course: CSCI-135
+	Instructor: Mike Zamansky
+	Assignment: Lab 01, Task B
 
-        This program will ask the user to input 3 integer numbers and print out the smaller of the 3.>*/
+	This program will ask the user to input 3 integer numbers and print out the smaller of the 3.>
+*/
 #include <iostream>
 
 int smaller3(int a, int b, int c)
